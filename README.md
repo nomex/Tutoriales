@@ -1,2 +1,2 @@
 # Tutoriales
-Tutoriales varios
+En el apartado Wiki se encuentran los tutoriales
